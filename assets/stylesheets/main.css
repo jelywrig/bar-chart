@@ -5,12 +5,13 @@
   border-bottom: solid;
   display: flex;
   align-items: flex-end;
-  justify-content: space-between;
+  justify-content: space-around;
+  margin: 2em;
 
 }
 
 div.t2 {
-  height: 50%;
+
   flex-basis: 10%;
   box-sizing: border-box;
   border-style: solid;
